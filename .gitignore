@@ -1,0 +1,19 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
